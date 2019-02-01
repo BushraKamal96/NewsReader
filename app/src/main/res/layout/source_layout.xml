@@ -27,7 +27,8 @@
                     android:id="@+id/imageview"
                     android:layout_width="100dp"
                     android:layout_height="120dp"
-                    android:src="@drawable/citycons"
+                    android:src="@drawable/item"
+
                     />
             </LinearLayout>
 
